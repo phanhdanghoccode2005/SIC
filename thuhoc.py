@@ -10,3 +10,4 @@ if so > 0 and songuyento(so):
     print(f"{so} la so nguyen to.")
 else:
     print(f"{so} ko phai so nguyen to.")
+# bai nay la check xem co phai so nguyen to khong
